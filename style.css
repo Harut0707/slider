@@ -1,0 +1,14 @@
+.parent{
+    margin: 50px auto;
+    display: flex;
+    grid-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.imgbig{
+    width: 50%;
+}
+.img{
+    width: 30%;
+    transform: scale();
+}
